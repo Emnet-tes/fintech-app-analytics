@@ -11,4 +11,5 @@ env/
 .vscode/
 __pycache__/
 
+log/
 *.log
